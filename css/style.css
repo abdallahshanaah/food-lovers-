@@ -3,4 +3,27 @@ body{
 }
 header{
     background-color: #B1AEE8;
+    text-align: center;
+
+
+}
+footer{
+    background-color: rgb(171, 173, 179);
+}
+main {
+    background-color: rgb(98, 115, 175);
+    
+}
+li{
+    padding: 30px ;
+    display: inline;
+
+}
+img{
+    width: 150px;
+    height: 150px;
+    inline-size: auto;
+}
+button{
+    background-color: bisque;
 }
